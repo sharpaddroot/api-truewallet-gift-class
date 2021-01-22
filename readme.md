@@ -42,21 +42,17 @@
     <img style="margin-top:10px;" src="https://www.img.in.th/images/052e270cd6fa1e954113d8811ed781c4.png" width="30%"/>
     </li>
     <li>หลังจากสร้าง <font class="t-blue"><b>Form</b></font> ให้นำ <font class="t-red"><b>Code</b></font> ด้านล่าง ไปใส่ในไฟล์ใช้ที่รับค่า</br>
-    <dev>
-    <?php
-    include('hyperclass.php');
-    $useapi = new Hyper();
-    $value = $_POST['link']; //ค่าลิ้งซองของขวัญ
-    $mygiftlink = str_replace(' ','',$value);
-    $result = $useapi->hyperRequest($mygiftlink);
-    if($result['code'] == '200'){
-        print_r($result);  //ทำรายการสำเร็จ
-    }else{
-        print_r($result);  //ทำรายการไม่สำเร็จ
-    }
-    ?>
-    </dev>
     </li>
 </ol>
+
+
+<dev>
+<?php
+  require "getotp/readsms.php";
+  
+  $sms = new ReadSMS($access_token);
+  print_r($sms->DevicesList());
+?>
+</dev>
 
 
