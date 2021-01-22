@@ -41,18 +41,8 @@
     รูปตัวอย่าง <font class="t-blue"><b>Form</b></font></br>
     <img style="margin-top:10px;" src="https://www.img.in.th/images/052e270cd6fa1e954113d8811ed781c4.png" width="30%"/>
     </li>
-    <li>หลังจากสร้าง <font class="t-blue"><b>Form</b></font> ให้นำ <font class="t-red"><b>Code</b></font> ด้านล่าง ไปใส่ในไฟล์ใช้ที่รับค่า</br>
+    <li>หลังจากสร้าง <font class="t-blue"><b>Form</b></font> ให้ ดาวน์โหลดไฟล์ api.php และให้ From ส่งค่าที่ไฟล์</br>
     </li>
 </ol>
-
-
-<dev>
-<?php
-  require "getotp/readsms.php";
-  
-  $sms = new ReadSMS($access_token);
-  print_r($sms->DevicesList());
-?>
-</dev>
 
 
