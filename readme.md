@@ -1,13 +1,3 @@
-<style>
- h3{border-bottom: 1px solid rgba(13,17,23,0.1) !important; padding-bottom:10px !important;}
- a{font-weight: bold !important; font-style: italic !important; text-decoration: underline !important;}
- .t-red{color:#E8175D !important;}
- .t-green{color:#2F9599 !important;}
- .t-org{color:#F26B38  !important;}
- .t-blue{color:#3598DB  !important;}
- small{color:rgba(71,71,71,0.7) !important;}
-</style>
-
 # API TrueWallet Gift Class
 
 <h3 class="t-black"><b>สารบัญ การใช้งาน</b></h3>
@@ -52,7 +42,8 @@
     <img style="margin-top:10px;" src="https://www.img.in.th/images/052e270cd6fa1e954113d8811ed781c4.png" width="30%"/>
     </li>
     <li>หลังจากสร้าง <font class="t-blue"><b>Form</b></font> ให้นำ <font class="t-red"><b>Code</b></font> ด้านล่าง ไปใส่ในไฟล์ใช้ที่รับค่า</br>
-    <pre>
+    <dev>
+    <?php
     include('hyperclass.php');
     $useapi = new Hyper();
     $value = $_POST['link']; //ค่าลิ้งซองของขวัญ
@@ -63,7 +54,8 @@
     }else{
         print_r($result);  //ทำรายการไม่สำเร็จ
     }
-    </pre>
+    ?>
+    </dev>
     </li>
 </ol>
 
