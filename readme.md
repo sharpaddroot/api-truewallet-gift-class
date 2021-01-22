@@ -2,7 +2,7 @@
 
 <h3 class="t-black"><b>สารบัญ การใช้งาน</b></h3>
 <ul>
-    <li><a href="#start" class="t-red">เริ่มต้นใช้งาน</a></li>
+    <li><a href="#start" style="color:#2F9599 !important;">เริ่มต้นใช้งาน</a></li>
     <li><a href="#web" class="t-green">เกี่ยวกับเว็บไซต์</a></li>
     <li><a href="#api" class="t-blue">การใช้งาน API</a></li>
     <li><a href="#pay" class="t-org">วิธีการเติมเงิน</a></li>
