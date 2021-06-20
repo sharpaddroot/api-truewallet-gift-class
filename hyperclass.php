@@ -7,7 +7,7 @@
  * @author    Hyper Studio <https://www.facebook.com/pagehyperstudio>
  * @copyright Copyright (c) 2020-2021
  * @link      https://github.com/sharpaddroot/api-truewallet-gift-class
- * @version   1.0.0 (Beta)
+ * @version   1.0.1 (Beta)
  *
 **/
 
