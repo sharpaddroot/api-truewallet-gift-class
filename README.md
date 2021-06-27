@@ -63,4 +63,4 @@ API TrueWallet Gift Class  By Hyper Studio
 
 ## เพิ่มเติม
 - ถ้ามีปัญหาในการใช้งานสามารถติดต่อได้ที่ [Hyper Studio](https://www.facebook.com/pagehyperstudio) ``` "หมายเหตู : ทำมาแจกฟรีห้ามนำไปจำหน่ายนะจ๊ะ" ```
-- สามารถบริจาคค่ากาแฟที่เว็บไซต์ที่ให้บริการ API [hyperstu.tk](https://hyperstu.tk/)
+- สามารถบริจาคค่ากาแฟที่เว็บไซต์ที่ให้บริการ API [hypergift.tk](https://hypergift.tk/)
