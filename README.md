@@ -47,7 +47,7 @@ API TrueWallet Gift Class  By Hyper Studio
     
   }else{ //ทำรายการไม่สำเร็จ		
   
-	  $errormsg = $result; //แสดงข้อความ Error	
+	  $errormsg = $result['msg']; //แสดงข้อความ Error	
     
   }
   
