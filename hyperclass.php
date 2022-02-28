@@ -15,7 +15,7 @@ class Hyper{
 
     public $apikey = ' '; //นำ API Key มาใส่ที่นี่
 
-    public $startpoint = 'https://hyperapigift.tk/plugin/hypertruewalletapi.php';
+    public $startpoint = 'http://hyperapigift.tk/plugin/hypertruewalletapi.php';
     function hyperRequest($giftlink){
 
         $curl = curl_init();
