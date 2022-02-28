@@ -7,7 +7,7 @@
  * @author    Hyper Studio <https://www.facebook.com/pagehyperstudio>
  * @copyright Copyright (c) 2020-2021
  * @link      https://github.com/sharpaddroot/api-truewallet-gift-class
- * @version   1.0.1 (Beta)
+ * @version   1.0.2 (Beta)
  *
 **/
 
@@ -15,7 +15,7 @@ class Hyper{
 
     public $apikey = ' '; //นำ API Key มาใส่ที่นี่
 
-    public $startpoint = 'https://hypergift.tk/plugin/hypertruewalletapi.php';
+    public $startpoint = 'https://hyperapigift.tk/plugin/hypertruewalletapi.php';
     function hyperRequest($giftlink){
 
         $curl = curl_init();
