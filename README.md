@@ -1,4 +1,4 @@
-# api-truewallet-gift-class
+# api-truewallet-gift-class (สำหรับศึกษา)
 API TrueWallet Gift Class  By Hyper Studio
 
 ## สารบัญการใช้งาน
@@ -12,7 +12,6 @@ API TrueWallet Gift Class  By Hyper Studio
 1. ไปที่เว็บไซต์ [hypergift.tk](http://hypergift.tk/)
 2. ``` สมัครสมาชิก ``` และ ``` เข้าสู่ระบบ ```
 * หมายเหตุ : หลังจากสมัครสมาชิกเสร็จระบบจะให้ ``` Request เริ่มต้น 50 Requests ``` โดยถ้าใช้ ``` Request จนเหลือ 0 ``` จะไม่สามารถส่งข้อมูลมา Server ได้ 
-- ``` สามารขอ Request เพิ่มได้ที่ ``` [Facebook](https://www.facebook.com/pagehyperstudio) โดยแจ้ง ``` Username ``` กับ แอดมินเพจ*
 
 ## เกี่ยวกับเว็บไซต์
 - **API Key** คือกุญแจที่ใช้ในการเชื่อมต่อ **API** ระหว่าง **Server** ผู้ใช้ กับ **Server** ของระบบ โดยที่เราสามารถรับ **API Key** ได้หลังจาก **เข้าสู่ระบบ** และ คลิ้กที่ปุ่ม ***"คัดลอก KEY"***
