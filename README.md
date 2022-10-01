@@ -1,4 +1,4 @@
-# api-truewallet-gift-class (สำหรับศึกษา)
+# api-truewallet-gift-class
 API TrueWallet Gift Class  By Hyper Studio
 
 ## สารบัญการใช้งาน
