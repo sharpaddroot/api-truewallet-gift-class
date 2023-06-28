@@ -9,7 +9,7 @@ API TrueWallet Gift Class  By Hyper Studio
 [เพิ่มเติม](#เพิ่มเติม)
 
 ## เริ่มต้นใช้งาน
-1. ไปที่เว็บไซต์ [hyperstudio.online](http://hyperstudio.online/)
+1. ไปที่เว็บไซต์ [hyperstudio.xyz](http://hyperstudio.xyz/)
 2. ``` สมัครสมาชิก ``` และ ``` เข้าสู่ระบบ ```
 * หมายเหตุ : หลังจากสมัครสมาชิกเสร็จระบบจะให้ ``` Request เริ่มต้น 50 Requests ``` โดยถ้าใช้ ``` Request จนเหลือ 0 ``` จะไม่สามารถส่งข้อมูลมา Server ได้ 
 
